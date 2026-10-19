@@ -1,0 +1,40 @@
+
+
+
+Installation of Concert should be done
+
+Show this as a short Demo!
+
+
+=> einlog Maske
+
+Anbindung an HMC
+
+VIOS
+
+Power LPAR anbinden
+
+=> Discover Workflow
+
+
+Workflow ohne watsonx
+
+Workflow mit watsonx (Problem: Dauert zu lange)
+
+
+=> Inventory (HMC und alle Systeme); Advisory (welche Schwachstellen gibt es für VIOS, HMC), Power Linux WOrkflow (LPAR)
+
+====> Automatisiertes Patching (eigenes Patching von LPAR ohne Downtime)
+
+
+MirrowVM (nur eine einzelne)
+
+
+Wir brauchen:
+
+Power Linux VM not up to date => 15*
+
+Mit Concert isntalliert LPAR 
+
+===> 
+
